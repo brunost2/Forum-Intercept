@@ -13,7 +13,7 @@ module.exports = {
       spacing: {
         "100ml": "600px",
         101: "900px",
-        300: "280px",
+        300: "275px",
       },
       fontSize: {
         "xxs": '0.65rem',
